@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p7vzxb5e5iy38tjg.github.io/Claude-Code-Free/sitemap.xml
